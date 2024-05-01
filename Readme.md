@@ -1,6 +1,8 @@
-# PDF Finder
+# PDF Finder 
 
-The PDF Finder is a Python application that allows you to quickly and easily find PDF files on the web.
+The PDF Finder is a Python application that allows you to quickly and easily find PDF files on the web. This one is only written in spanish but could be translated if requested.
+
+![PDF Finder](https://res.cloudinary.com/dwzcbbipf/image/upload/v1714504413/portfolio/ai8vj7r9sziklnrkq6tl.png)
 
 ## Features
 - **PDF File Search:** This application uses the Google API to perform specific searches for PDF files on the web, providing you with accurate and relevant results.
@@ -18,13 +20,3 @@ To run the PDF Finder, you will need to have a compatible version of Python inst
 ```bash
 pip install tkinter
 pip install google
-```
-
-## Usage
-To run the application, simply execute the pdf_finder.py file. Or the .exe in the dist folder if you're on windows.
-
-The graphic interface of the PDF Finder will open, where you can enter your search query and perform searches for PDF files on the web.
-
-I hope you enjoy using the PDF Finder to quickly find the PDF files you need on the web! If you have any questions or suggestions, feel free to contact me.
-
-Thank you for using the PDF Finder!
